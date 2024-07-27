@@ -1,0 +1,14 @@
+D:\Documents\0.Programowanie\7.C#\0.CodeWars\CodeWars\bin\Debug\net8.0\CodeWars.exe
+D:\Documents\0.Programowanie\7.C#\0.CodeWars\CodeWars\bin\Debug\net8.0\CodeWars.deps.json
+D:\Documents\0.Programowanie\7.C#\0.CodeWars\CodeWars\bin\Debug\net8.0\CodeWars.runtimeconfig.json
+D:\Documents\0.Programowanie\7.C#\0.CodeWars\CodeWars\bin\Debug\net8.0\CodeWars.dll
+D:\Documents\0.Programowanie\7.C#\0.CodeWars\CodeWars\bin\Debug\net8.0\CodeWars.pdb
+D:\Documents\0.Programowanie\7.C#\0.CodeWars\CodeWars\obj\Debug\net8.0\CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\0.Programowanie\7.C#\0.CodeWars\CodeWars\obj\Debug\net8.0\CodeWars.AssemblyInfoInputs.cache
+D:\Documents\0.Programowanie\7.C#\0.CodeWars\CodeWars\obj\Debug\net8.0\CodeWars.AssemblyInfo.cs
+D:\Documents\0.Programowanie\7.C#\0.CodeWars\CodeWars\obj\Debug\net8.0\CodeWars.csproj.CoreCompileInputs.cache
+D:\Documents\0.Programowanie\7.C#\0.CodeWars\CodeWars\obj\Debug\net8.0\CodeWars.dll
+D:\Documents\0.Programowanie\7.C#\0.CodeWars\CodeWars\obj\Debug\net8.0\refint\CodeWars.dll
+D:\Documents\0.Programowanie\7.C#\0.CodeWars\CodeWars\obj\Debug\net8.0\CodeWars.pdb
+D:\Documents\0.Programowanie\7.C#\0.CodeWars\CodeWars\obj\Debug\net8.0\CodeWars.genruntimeconfig.cache
+D:\Documents\0.Programowanie\7.C#\0.CodeWars\CodeWars\obj\Debug\net8.0\ref\CodeWars.dll
